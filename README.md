@@ -16,4 +16,5 @@ In this task, I developed a Python script that reads data from a file, performs 
 
 #OUTPUT
 
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/7b94b6dd-bd96-407b-bc2a-68559c54eff9" />
 
